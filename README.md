@@ -58,6 +58,8 @@ Na pasta programação tem 3 códigos:
 
 # Pronto! seu projeto já está funcionando
 
+# Link do vídeo no youtube: 
+
 
 # Breve explicação do funcionamento:
 O sensor DHT22 faz as leituras, através do MQTT Broker Eclipse, faz o método publish e se comunica com o app Mqtt Dashboard. 
