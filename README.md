@@ -60,6 +60,8 @@ Na pasta programação tem 3 códigos:
 
 # Link do vídeo no youtube: 
 
+# Protocolo MQTT
+O protocolo utilizado foi o eclipse MQTT https://mqtt.eclipseprojects.io/ e a porta 1883
 
 # Breve explicação do funcionamento:
 O sensor DHT22 faz as leituras, através do MQTT Broker Eclipse, faz o método publish e se comunica com o app Mqtt Dashboard. 
