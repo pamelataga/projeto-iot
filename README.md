@@ -59,7 +59,7 @@ Na pasta programação tem 3 códigos:
 # Pronto! seu projeto já está funcionando
 
 # Link do vídeo no youtube: 
-https://www.youtube.com/watch?v=h0I-T72zIi0
+https://youtu.be/X96rnl2uoJU
 
 # Protocolo MQTT
 O protocolo utilizado foi o eclipse MQTT https://mqtt.eclipseprojects.io/ e a porta 1883
