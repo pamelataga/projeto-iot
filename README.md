@@ -52,13 +52,14 @@ Na pasta programação tem 3 códigos:
 - Escolher o botão "text"; 
 - Preencher os campos: Nome do Bloco = "Humidade", tópico para inscrever = "lab/humid", Desabilitar a opção "habilitar publicação" (Caso esteja selecionada), personalizar o ícone com imagem e cor conforme tua preferencia e clicar no botão salvar;  
 
-### Temperatura:  
+### Led:  
 - Escolher o botão "button"; 
 - Preencher os campos: Nome do Bloco = "Led", tópico para publicar = "casa/sala", personalizar o ícone com imagem e cor conforme tua preferencia e clicar no botão salvar;  
 
 # Pronto! seu projeto já está funcionando
 
 # Link do vídeo no youtube: 
+https://www.youtube.com/watch?v=h0I-T72zIi0
 
 # Protocolo MQTT
 O protocolo utilizado foi o eclipse MQTT https://mqtt.eclipseprojects.io/ e a porta 1883
